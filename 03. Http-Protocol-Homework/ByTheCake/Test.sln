@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByTheCake", "ByTheCake\ByTheCake.csproj", "{4E8034CF-E46B-4527-9F9B-4B12D7062357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddCake", "AddCake\AddCake.csproj", "{EAE075DA-32D1-4B45-8FCE-496C1136376F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowseCakes", "BrowseCakes\BrowseCakes.csproj", "{F6309894-4817-4E01-9CB4-55FC356A9058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8034CF-E46B-4527-9F9B-4B12D7062357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8034CF-E46B-4527-9F9B-4B12D7062357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8034CF-E46B-4527-9F9B-4B12D7062357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8034CF-E46B-4527-9F9B-4B12D7062357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE075DA-32D1-4B45-8FCE-496C1136376F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE075DA-32D1-4B45-8FCE-496C1136376F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE075DA-32D1-4B45-8FCE-496C1136376F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE075DA-32D1-4B45-8FCE-496C1136376F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6309894-4817-4E01-9CB4-55FC356A9058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6309894-4817-4E01-9CB4-55FC356A9058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6309894-4817-4E01-9CB4-55FC356A9058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6309894-4817-4E01-9CB4-55FC356A9058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
