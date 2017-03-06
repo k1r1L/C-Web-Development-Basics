@@ -1,0 +1,25 @@
+p {
+    border: 2px solid;
+    border-radius: 10px;
+    background: lightgray;
+    text-align: center;
+}
+
+#p1 {
+    border-color: red;
+}
+#p2 {
+    border-color: green;
+}
+#p3 {
+    border-color: blue;
+}
+#t1 {
+    color: red;
+}
+#t2 {
+    color: green;
+}
+#t3 {
+    color: blue;
+}
