@@ -1,0 +1,17 @@
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\PizzaMore.Client.exe.config
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\PizzaMore.Client.exe
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\PizzaMore.Client.pdb
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\PizzaMore.Data.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\PizzaMore.Models.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\PizzaMore.Data.pdb
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\PizzaMore.Models.pdb
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\obj\Debug\PizzaMore.Client.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\obj\Debug\PizzaMore.Client.exe
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\obj\Debug\PizzaMore.Client.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\04. Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\bin\Debug\PizzaMore.Client.exe.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\04. Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\obj\Debug\PizzaMore.Client.exe
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\04. Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Client\obj\Debug\PizzaMore.Client.pdb

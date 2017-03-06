@@ -1,0 +1,5 @@
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Models\bin\Debug\PizzaMore.Models.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Models\bin\Debug\PizzaMore.Models.pdb
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Models\obj\Debug\PizzaMore.Models.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Models\obj\Debug\PizzaMore.Models.pdb
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Models\obj\Debug\PizzaMore.Models.csprojResolveAssemblyReference.cache

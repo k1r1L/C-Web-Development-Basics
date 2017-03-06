@@ -1,0 +1,12 @@
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\bin\Debug\PizzaMore.Data.dll.config
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\bin\Debug\PizzaMore.Data.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\bin\Debug\PizzaMore.Data.pdb
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\bin\Debug\PizzaMore.Models.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\bin\Debug\PizzaMore.Models.pdb
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\obj\Debug\PizzaMore.Data.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\obj\Debug\PizzaMore.Data.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\Web+Entity-Framework-Lab\Pizza-More-Back-End\PizzaMore.Data\obj\Debug\PizzaMore.Data.pdb
