@@ -1,0 +1,71 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.exe.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.exe
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\AutoMapper.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleMVC.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleMVC.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.Models.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\AutoMapper.xml
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.xml
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.exe
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.exe.config
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.exe
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\Resources\Pages\404.html
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\Resources\Pages\500.html
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.exe
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\AutoMapper.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleHttpServer.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleMVC.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.Models.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleHttpServer.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleMVC.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.Models.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\AutoMapper.xml
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.xml
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.InitialCreate.resources
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.csproj.GenerateResource.Cache
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.NewManyToMany.resources
+C:\Users\v\Downloads\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.exe.config
+C:\Users\v\Downloads\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.exe
+C:\Users\v\Downloads\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.exe.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.exe
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.exe
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.App.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\AutoMapper.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleMVC.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SimpleMVC.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\SoftUniGameStore.Models.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\AutoMapper.xml
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.xml
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.InitialCreate.resources
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.NewManyToMany.resources
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.csproj.GenerateResource.Cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.NonIdentityColumn.resources
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.IdentityColumn.resources

@@ -1,0 +1,22 @@
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="display-3">{this.Title}</h1>
+                <br/>
+                <iframe width="560" height="315" src="https://www.youtube.com/watch?v={this.Trailer}" frameborder="0" allowfullscreen></iframe>
+                <br/>
+                <br/>
+                <p>{this.Description}</p>
+                <p><strong>Price</strong> - {this.Price}&euro;</p>
+                <p><strong>Size</strong> - {this.Size} GB</p>
+                <p><strong>Release Date</strong> - {this.ReleaseDate}</p>
+                <a class="btn btn-outline-primary" name="delete" href="/home/index">Back</a>
+                        ##admin##
+                <a class="btn btn-primary" name="buy" href="/home/addtocart?id={this.Id}">Buy</a>
+                <br/>
+                <br/>
+            </div>
+        </div>
+    </div>
+</main>

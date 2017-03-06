@@ -1,0 +1,10 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.Models\bin\Debug\SoftUniGameStore.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.Models\bin\Debug\SoftUniGameStore.Models.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.Models\obj\Debug\SoftUniGameStore.Models.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.Models\obj\Debug\SoftUniGameStore.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.Models\obj\Debug\SoftUniGameStore.Models.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.Models\bin\Debug\SoftUniGameStore.Models.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.Models\bin\Debug\SoftUniGameStore.Models.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.Models\obj\Debug\SoftUniGameStore.Models.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.Models\obj\Debug\SoftUniGameStore.Models.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SoftUniGameStore.Models\obj\Debug\SoftUniGameStore.Models.pdb

@@ -1,0 +1,18 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleMVC\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleMVC\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleMVC\bin\Debug\SimpleMVC.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleMVC\bin\Debug\SimpleMVC.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleMVC\obj\Debug\SimpleMVC.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleMVC\obj\Debug\SimpleMVC.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleMVC\bin\Debug\Resources\Pages\404.html
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleMVC\bin\Debug\Resources\Pages\500.html
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleMVC\bin\Debug\SimpleMVC.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleMVC\bin\Debug\SimpleMVC.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleMVC\obj\Debug\SimpleMVC.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleMVC\obj\Debug\SimpleMVC.pdb

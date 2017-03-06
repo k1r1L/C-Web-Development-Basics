@@ -1,0 +1,32 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+F:\Data Kiril\SoftUni\C# Web\11.-Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Users\v\Downloads\11.-Practical-Exam\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Downloads\11.-Practical-Exam\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Downloads\11.-Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\v\Downloads\11.-Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Downloads\11.-Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Downloads\11.-Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\v\Downloads\11.-Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\v\Downloads\11.-Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
