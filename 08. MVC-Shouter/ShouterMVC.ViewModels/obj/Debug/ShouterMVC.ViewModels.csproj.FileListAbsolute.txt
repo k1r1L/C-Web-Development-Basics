@@ -1,0 +1,5 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.ViewModels\bin\Debug\ShouterMVC.ViewModels.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.ViewModels\bin\Debug\ShouterMVC.ViewModels.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.ViewModels\obj\Debug\ShouterMVC.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.ViewModels\obj\Debug\ShouterMVC.ViewModels.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.ViewModels\obj\Debug\ShouterMVC.ViewModels.pdb

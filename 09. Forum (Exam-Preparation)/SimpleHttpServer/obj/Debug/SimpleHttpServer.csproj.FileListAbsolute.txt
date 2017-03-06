@@ -1,0 +1,24 @@
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\09. Exam-Preparation\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\09. Exam-Preparation\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\09. Exam-Preparation\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\09. Exam-Preparation\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\09. Exam-Preparation\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\09. Exam-Preparation\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\09. Exam-Preparation\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\09. Exam-Preparation\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

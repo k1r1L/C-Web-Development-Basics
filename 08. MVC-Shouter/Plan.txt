@@ -1,0 +1,17 @@
+01. Models
+->User
+->Login
+->Shout
+02. Controllers
+->HomeController
+-->Register (GET and POST)
+-->Login (GET and POST)
+-->Logout (GET)
+-->Feed (GET and POST)
+->FollowersController
+-->Profile (GET and POST)
+-->All (GET, POST and POST)
+-->Feed (GET)
+->ProfileController
+-->Feed (GET and POST)
+-->Following (GET and POST)

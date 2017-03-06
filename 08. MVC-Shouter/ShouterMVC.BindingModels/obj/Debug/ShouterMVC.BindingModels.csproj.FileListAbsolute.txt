@@ -1,0 +1,5 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.BindingModels\bin\Debug\ShouterMVC.BindingModels.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.BindingModels\bin\Debug\ShouterMVC.BindingModels.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.BindingModels\obj\Debug\ShouterMVC.BindingModels.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.BindingModels\obj\Debug\ShouterMVC.BindingModels.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\08. MVC-Shouter\ShouterMVC.BindingModels\obj\Debug\ShouterMVC.BindingModels.pdb
