@@ -1,0 +1,5 @@
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore.Models\bin\Debug\SharpStore.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore.Models\bin\Debug\SharpStore.Models.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore.Models\obj\Debug\SharpStore.Models.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore.Models\obj\Debug\SharpStore.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore.Models\obj\Debug\SharpStore.Models.pdb

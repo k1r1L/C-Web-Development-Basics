@@ -1,0 +1,33 @@
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.exe.config
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\Resources\Pages\404.html
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\Resources\Pages\500.html
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.exe
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.pdb
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SimpleHttpServer.dll
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SimpleHttpServer.pdb
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.exe
+C:\Data Kiril\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.exe.config
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.exe
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.exe
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\EntityFramework.dll
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.Data.dll
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.Data.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\EntityFramework.xml
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.Models.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.Utilities.dll
+C:\Users\v\Desktop\SoftUni\C# Web\C# Web Development Basics\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.Utilities.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\05. Hand-Made-Web-Server-Exercises\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.exe.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\05. Hand-Made-Web-Server-Exercises\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.exe
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\05. Hand-Made-Web-Server-Exercises\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.pdb
