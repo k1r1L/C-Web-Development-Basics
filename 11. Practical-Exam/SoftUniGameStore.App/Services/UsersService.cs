@@ -42,6 +42,7 @@
             {
                 Session s = this.SessionRepository.Find(l => l.User.Id == existingUser.Id);
                 s.IsActive = true;
+                s.SessionId = sessionId;
                 this.SaveChanges();
             }
             else

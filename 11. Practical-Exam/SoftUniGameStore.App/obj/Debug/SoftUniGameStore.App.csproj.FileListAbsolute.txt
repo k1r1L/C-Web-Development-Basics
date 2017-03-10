@@ -69,3 +69,8 @@ C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\Soft
 C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.csproj.GenerateResource.Cache
 C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.NonIdentityColumn.resources
 C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11.-Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.IdentityColumn.resources
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.InitialCreate.resources
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.NewManyToMany.resources
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.NonIdentityColumn.resources
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.Migrations.IdentityColumn.resources
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\11. Practical-Exam\SoftUniGameStore.App\obj\Debug\SoftUniGameStore.App.csproj.GenerateResource.Cache
